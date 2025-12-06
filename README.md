@@ -82,7 +82,7 @@ A clean demonstration of ASR → structured output.
 ## 📫 Let's Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/kshitijbhingare/  
-- **Email:** *(add your email here)*  
+- **Email:** *kshitijbhingare@gmail.com*  
 - **Project Portfolio:** https://github.com/kshitijbhingare/ai-projects
 
 ---
